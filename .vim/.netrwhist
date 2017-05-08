@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/bgold/Code/purity'
+let g:netrw_dirhist_2='/Users/bgold/Code/ir-bgold/system/inuk/src'
+let g:netrw_dirhist_3='/home/bgold/ir-bgold/tools/premake/build/gmake.unix'
+let g:netrw_dirhist_4='/tmp/ir7636/test'
+let g:netrw_dirhist_5='/home/bgold/ir-bgold/tools/ir_lib'
+let g:netrw_dirhist_6='/home/bgold/analytics/spark-tools'
